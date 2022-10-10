@@ -218,6 +218,7 @@ footer {
     font-size: 50px;
     font-weight: bold;
     margin-bottom: 15px;
+    font-family: "Exo", sans-serif;
 }
 
 
@@ -229,7 +230,9 @@ footer {
 
 .skill-header {
     font-weight: bold;
+    font-family: "Exo", sans-serif;
 }
+
 
 /* Projects */ 
 
@@ -261,3 +264,29 @@ footer {
 .pro {
     margin-top: 30px;
 }
+
+.project-link {
+    list-style: none;
+    color: #676767;
+}
+
+.project-link:hover {
+    color: #997e66;
+    font-weight: bold;
+}
+
+.margin {
+    margin: 20px;
+    text-align: center;
+}
+
+.git-link {
+    color: #fff;
+    font-size: 25px;
+}
+
+.git-link:hover {
+    color: #997e66;
+    font-weight: bold;
+}
+

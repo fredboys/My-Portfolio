@@ -10,6 +10,10 @@
     background-color: #fff;
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -57,6 +61,7 @@ h1, h2, h3, h4 {
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
+    text-align: center;
 }
 
 
@@ -206,11 +211,19 @@ footer {
 }
 
 .three-reasons-heading {
-    margin-bottom: 15px;
-    font-size: 30px;
+    margin-bottom: 15px;   
 }
 
 .personal-name {
     font-size: 50px;
     font-weight: bold;
+    margin-bottom: 15px;
 }
+
+
+.skill-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+

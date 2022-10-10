@@ -225,5 +225,39 @@ footer {
     list-style-type: none;
     margin: 0;
     padding: 0;
-  }
+}
 
+.skill-header {
+    font-weight: bold;
+}
+
+/* Projects */ 
+
+.projects {
+    background-color: #74a6c4;
+    color: #fff;
+}
+
+.projects-header {
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-family: "Exo", sans-serif;
+}
+
+.project-skills {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.img-resize {
+  max-width: 100%;
+  height: auto;
+}
+
+.project-section {
+    margin: 10px;
+}
+
+.pro {
+    margin-top: 30px;
+}

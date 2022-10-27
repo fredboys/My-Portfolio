@@ -1,5 +1,5 @@
 My portfolio website
 
-Work in progress
-
 Built using Bootstrap. HTML & CSS
+
+[Live website](https://fredboys.github.io/My-Portfolio/)

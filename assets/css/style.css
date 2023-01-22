@@ -266,6 +266,10 @@ footer {
     color: #fff;
 }
 
+.project-margin {
+    margin-top: 20px;
+}
+
 .projects-header {
     padding-bottom: 15px;
     font-weight: bold;
@@ -292,11 +296,11 @@ footer {
 
 .project-link {
     list-style: none;
-    color: #525252;
+    color: #131313;
 }
 
 .project-link:hover {
-    color: #d16d15;
+    color: #1e1003;
     font-weight: bold;
 }
 
